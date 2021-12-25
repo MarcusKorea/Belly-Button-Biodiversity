@@ -44,19 +44,10 @@ The dataset reveals that a small handful of microbial species (also called opera
 
 Additionally, you are welcome to create any layout that you would like for your dashboard. An example dashboard is shown below:
 
-![hw](Images/hw02.png)
-
-## Advanced Challenge Assignment (Optional)
-
-The following task is advanced and therefore optional.
-
-* Adapt the Gauge Chart from <https://plot.ly/javascript/gauge-charts/> to plot the weekly washing frequency of the individual.
-
-* You will need to modify the example gauge code to account for values ranging from 0 through 9.
+![Dashboard](Images/Dashboard.png)
 
 * Update the chart whenever a new sample is selected.
 
-![Weekly Washing Frequency Gauge](Images/gauge.png)
 
 ## Deployment
 
@@ -69,3 +60,16 @@ Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly 
 - - -
 
 © 2021 Trilogy Education Services, LLC, a 2U, Inc. brand. Confidential and Proprietary. All Rights Reserved.
+
+## **Using the Dashboard**:
+To access the dashboard visit this link: https://marcuskorea.github.io/Belly-Button-Biodiversity/
+
+Click the individual you want to see the information about and the page will update.
+## **Languages used**:
+- HTML
+- CSS
+- JavaScript
+
+## **Javascript Libraries Used**:
+- D3
+- Plotly
